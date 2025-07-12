@@ -215,7 +215,7 @@ const Contact = () => {
       icon: <Linkedin size={20} />,
       name: "LinkedIn",
       handle: "abaasa-byoona",
-      href: "https://linkedin.com/in/abaasa-byoona",
+      href: "https://www.linkedin.com/in/abaasa-byoona-853012374/",
       bgColor: "rgba(0, 119, 181, 0.2)",
       iconColor: "#0077b5",
       hoverColor: "rgba(0, 119, 181, 0.1)",
