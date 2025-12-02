@@ -177,8 +177,8 @@ const Contact = () => {
     {
       icon: <MessageCircle size={24} />,
       label: "WhatsApp",
-      value: "+256 782 783 221",
-      href: "https://wa.me/256782783221"
+      value: "+256 701 122 665",
+      href: "https://wa.me/25670112265"
     },
     {
       icon: <Phone size={24} />,
@@ -311,7 +311,7 @@ const Contact = () => {
           Ready to bring your ideas to life? Let's discuss your next project and create something amazing together.
         </CTAText>
         <CTAButton
-          href="https://wa.me/256782783221?text=Hello%20Abaasa,%20I'd%20like%20to%20discuss%20a%20project"
+          href="https://wa.me/256701122665?text=Hello%20Abaasa,%20I'd%20like%20to%20discuss%20a%20project"
           target="_blank"
           rel="noopener noreferrer"
           whileHover={{ scale: 1.05 }}
@@ -326,4 +326,5 @@ const Contact = () => {
 };
 
 export default Contact;
+
 
